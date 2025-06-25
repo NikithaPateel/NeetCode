@@ -1,3 +1,4 @@
+# Problem: https://neetcode.io/problems/duplicate-integer?list=blind75
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         for i in range(len(nums)):
